@@ -1,0 +1,19 @@
+{
+  "name": "TIME VOYAGE",
+  "symbol": "TIME",
+  "description": "Ticket to the Future: send messages across time. Community token of the Time Voyage app.",
+  "image": "https://raw.githubusercontent.com/gennadii-TIME/time-voyage-token/main/assets/time-voyage/logo.png",
+  "external_url": "https://www.facebook.com/tokentimevoyage/",
+  "attributes": [
+    { "trait_type": "Project", "value": "Time Voyage" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/gennadii-TIME/time-voyage-token/main/assets/time-voyage/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
