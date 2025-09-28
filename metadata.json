@@ -1,10 +1,15 @@
 {
-  "name": "TIME VOYAGE",
+  "chainId": 101,
+  "address": "58XfFGMGGUwEs38TmzFvLq8ptFTF6GE6r7qwAEdKjupx",
   "symbol": "TIME",
-  "mint": "58XfFGMGGUwEs38TmzFvLq8ptFTF6GE6r7qwAEdKjupx",
-  "description": "TIME VOYAGE is the ticket to time travel.",
-  "image": "https://raw.githubusercontent.com/gennadii-TIME/time-voyage-token/main/assets/time-voyage/logo.png",
-  "website": "https://vm.tiktok.com/ZNdV8XAPf/",
-  "twitter": "https://x.com/GenadijsStepan1",
-  "telegram": "https://t.me/tokentimevoyage"
+  "name": "TIME VOYAGE",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/gennadii-TIME/time-voyage-token/main/assets/time-voyage/logo.png",
+  "tags": ["community", "utility"],
+  "extensions": {
+    "description": "TIME VOYAGE is the ticket to time travel.",
+    "website": "https://vm.tiktok.com/ZNdV8XAPf/",
+    "twitter": "https://x.com/GenadijsStepan1",
+    "telegram": "https://t.me/tokentimevoyage"
+  }
 }
