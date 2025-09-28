@@ -8,8 +8,9 @@
   "tags": ["community", "utility"],
   "extensions": {
     "description": "TIME VOYAGE is the ticket to time travel.",
-    "website": "https://www.facebook.com/tokentimevoyage/",
-    "twitter": "https://x.com/GenadijsStepan1",
+    "website": "https://timevoyage.app",
+    "facebook": "https://www.facebook.com/tokentimevoyage/",
+    "twitter": "https://x.com/GennadijStepan1",
     "telegram": "https://t.me/tokentimevoyage"
   }
 }
