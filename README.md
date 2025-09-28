@@ -19,7 +19,7 @@ used across the Solana ecosystem (Dexscreener, Jupiter, Birdeye, wallets).
 
 ## Links
 
-- 🌐 [Website](https://vm.tiktok.com/ZNdV8XAPf/)  
+- 🌐 [Website](https://www.facebook.com/tokentimevoyage/)  
 - 🐦 [Twitter](https://x.com/GenadijsStepan1)  
 - 💬 [Telegram](https://t.me/tokentimevoyage)  
 
